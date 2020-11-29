@@ -1,5 +1,7 @@
 # 看路！
 
+## 對平台有建議嗎？
+任何建議都歡迎，不管好的壞的，請直接開 Issue 討論！
 
 ## 文件
 [使用者文件](https://roadreport.gitlab.io/docs/)
