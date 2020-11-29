@@ -18,4 +18,4 @@
 
 ## 聯絡資訊
 ### Discord  
-[![Discord Chat](https://img.shields.io/discord/728218559309807656.svg)](https://discord.gg/)
+[![Discord Chat](https://img.shields.io/discord/728218559309807656.svg)](https://discord.gg/czhCDBD)
